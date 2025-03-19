@@ -1,6 +1,11 @@
 # PosterBoard Experiments
 .imazingapp files for various PosterBoard configurations I've made.
 
-Restore these with iMazing, preferably iMazing 2. Have fun.
+For .imazingapp files, restore them with iMazing (preferably the latest version of iMazing 2 as it's more stable and faster for this).
 
-Assets used in these belong to Apple, I simply compiled them together into modern formats.
+For .tendies files, restore them with Nugget 5.0 or higher. (in beta at time of writing)
+
+Asset Credits:
+iPhone X Live Wallpapers - Apple
+
+Bad Apple!! - How do you credit this? [Here's a random YouTube link.](https://youtu.be/FtutLA63Cp8)
